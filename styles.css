@@ -121,8 +121,11 @@ footer{
     .Navbar-container ul li a {
         margin-right: 0; /* Remove large spacing */
         margin-bottom: 10px; /* Add space between links */
+        list-style: none;
     }
-
+    .home-page h1{
+        padding-top: 50px;
+    }
     .home-page-container img {
         width: 100%; /* Make images responsive */
         max-width: 400px; /* Set a max width */
